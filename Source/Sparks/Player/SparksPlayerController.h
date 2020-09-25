@@ -6,9 +6,6 @@
 #include "GameFramework/PlayerController.h"
 #include "SparksPlayerController.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class SPARKS_API ASparksPlayerController : public APlayerController
 {

@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "SparksGameMode.h"
-#include "SparksCharacter.h"
+#include "Player/SparksCharacter.h"
 
 ASparksGameMode::ASparksGameMode()
 {

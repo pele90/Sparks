@@ -6,9 +6,6 @@
 #include "Camera/PlayerCameraManager.h"
 #include "SparksPlayerCameraManager.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class SPARKS_API ASparksPlayerCameraManager : public APlayerCameraManager
 {

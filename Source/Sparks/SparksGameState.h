@@ -3,13 +3,12 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/HUD.h"
-#include "SparksHUD.generated.h"
+#include "GameFramework/GameStateBase.h"
+#include "SparksGameState.generated.h"
 
 UCLASS()
-class SPARKS_API ASparksHUD : public AHUD
+class SPARKS_API ASparksGameState : public AGameStateBase
 {
 	GENERATED_BODY()
 	
-
 };
