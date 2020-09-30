@@ -8,3 +8,4 @@ ASparksGameMode::ASparksGameMode()
 	// Set default pawn class to our character
 	DefaultPawnClass = ASparksCharacter::StaticClass();	
 }
+
